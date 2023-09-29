@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="NotesTheme" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/white</item>
+
+        <item name="colorPrimaryDark">@color/tangerine</item>
+        <item name="colorAccent">@color/fire</item>
+    </style>
+</resources>

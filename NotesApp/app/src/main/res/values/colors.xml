@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="tangerine">#FA8128</color>
+    <color name="fire">#DD571C</color>
+    <color name="canta">#FDA172</color>
+</resources>
